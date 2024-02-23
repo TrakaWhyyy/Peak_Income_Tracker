@@ -22,4 +22,4 @@ This project is a higher national diploma course work that explain about real wo
 
 [twitter](https://twitter.com/Chamika_gihan_) \:bird: <br>
 [github](https://github.com/TrakaWhyyy) \:octocat: <br>
-[email](chamikagihanedirisuriya@gmail.com) \:email:
+email \:email: chamikagihanedirisuriya@gmail.com 
