@@ -1,4 +1,5 @@
 # PEAK INCOME TRACKER :chart_with_upwards_trend:
+
 The peak income tracker is a program that use for store data and dispaly value in low value to high value.
 The program develop using JAVA and Apache NetBeans IDE 19 is the console that use to develop project.
 This project is a higher national diploma course work that explain about real world scenario in Data struture.<br>
@@ -23,3 +24,5 @@ This project is a higher national diploma course work that explain about real wo
 [twitter](https://twitter.com/Chamika_gihan_) \:bird: <br>
 [github](https://github.com/TrakaWhyyy) \:octocat: <br>
 email \:email: chamikagihanedirisuriya@gmail.com 
+
+![alt text](https://github.com/TrakaWhyyy/Peak_Income_Tracker/blob/master/TerminalView.png?raw=true)
