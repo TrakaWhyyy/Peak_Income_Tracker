@@ -23,6 +23,6 @@ This project is a higher national diploma course work that explain about real wo
 
 [twitter](https://twitter.com/Chamika_gihan_) \:bird: <br>
 [github](https://github.com/TrakaWhyyy) \:octocat: <br>
-email \:email: chamikagihanedirisuriya@gmail.com 
+email \:email: chamikagihanedirisuriya@gmail.com <br>
 
 ![alt text](https://github.com/TrakaWhyyy/Peak_Income_Tracker/blob/master/TerminalView.png?raw=true)
