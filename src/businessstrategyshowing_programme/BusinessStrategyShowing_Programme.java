@@ -66,6 +66,7 @@ class Linkedlist{
         }
        System.out.println(RED_TEXT+BLACK_BG+"\n<< Convert profit values to low value to high value >>"+RESET);
        tree.inorderTraversal(tree.root);
+       tree.showMaxValue();
     }
     //make array to get data from the user
     double [] arrayValue = new double[3000];
@@ -109,6 +110,7 @@ class TreeNode{
 
 class BinaryTree{
     TreeNode root;
+    double maxdata;
     public BinaryTree(){
         root = null;
     }
@@ -135,8 +137,17 @@ class BinaryTree{
             inorderTraversal(node.left);
             System.out.println(node.value + " ");
             inorderTraversal(node.right);
+            if(maxdata < node.value){
+                maxdata = node.value;
+            }
         }
     }
+     public void showMaxValue(){
+         String GREEN_TEXT = "\u001B[32m";
+         String RESET = "\u001B[0m";
+         String RED_TEXT = "\u001B[31m";
+         System.out.println(GREEN_TEXT+"\nMax value is "+RESET+RED_TEXT+maxdata+RESET);
+     }
 }
 
 public class BusinessStrategyShowing_Programme {
