@@ -25,4 +25,4 @@ This project is a higher national diploma course work that explain about real wo
 [github](https://github.com/TrakaWhyyy) \:octocat: <br>
 email \:email: chamikagihanedirisuriya@gmail.com <br>
 
-![alt text](https://github.com/TrakaWhyyy/Peak_Income_Tracker/blob/master/TerminalView.png?raw=true)
+![alt text](https://github.com/TrakaWhyyy/Serial-Port-Reader/blob/7356e1333aa3d30ff3fdb10de19e2b66c834089c/Screenshot%202024-06-05%20004427.png?raw=true)
